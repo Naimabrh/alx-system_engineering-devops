@@ -1,0 +1,2 @@
+#!/bin/bash
+grev -i -v "bin" /etc/passwd
